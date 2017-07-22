@@ -1,6 +1,12 @@
 {
-  "name": "nodeangularapp",
+  "name": "base-project",
   "private": true,
+  "repository" :
+  { "type" : "git"
+  , "url" : "https://github.com/tahirakhan/node-getting-started"
+  },
+  "author": "tahir ali khan",
+  "license": "MIT",
   "devDependencies": {
     "autoprefixer-core": "^5.2.1",
     "grunt": "^0.4.5",
